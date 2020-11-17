@@ -15,6 +15,20 @@ body {
 	box-shadow: 0 0 0 2.5px #00006b inset;
 }
 
+header {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.return {
+	display: block;
+	position: absolute;
+	margin-left: -1.2rem;
+	color: rgb(0, 98, 255);
+	top: 2.5rem;
+	font-size: 1rem;
+}
+
  h1 {
      color:#00006b !important;
      font-family: proxima-nova-condensed, sans-serif;
