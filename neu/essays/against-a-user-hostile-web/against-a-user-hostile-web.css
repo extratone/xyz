@@ -1,0 +1,10 @@
+html {
+	background: white;
+	background-image: url("bgcactus-pixelated.jpg");
+	background-repeat: repeat-all;
+  /* background-attachment: fixed; */
+}
+
+h1 {
+	width: 70%;
+}
